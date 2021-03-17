@@ -16,5 +16,7 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="E:/Java_Eclipse/Java_ressurser/eclipselink-2.7.7.jar"/>
 	<classpathentry kind="lib" path="E:/Java_Eclipse/Java_ressurser/postgresql-42.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Java_Eclipse/Java_ressurser/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Java_Eclipse/Java_ressurser/javax.ejb.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
